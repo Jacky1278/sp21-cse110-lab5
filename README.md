@@ -9,4 +9,4 @@ https://jacky1278.github.io/sp21-cse110-lab5/
 
 ## Part 2:
 
-https://github.com/Jacky1278/github-actions-for-ci
+https://github.com/Jacky1278/github-actions-for-ci/issues/7
